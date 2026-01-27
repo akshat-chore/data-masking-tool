@@ -18,6 +18,11 @@ CSV dataset containing sensitive fields such as:
    - Used for email and phone numbers
    - Deterministic and irreversible
 
+## Additional Masking Techniques
+- Partial masking for phone numbers and emails
+- Fake data substitution for improved test realism
+
+
 ## Referential Integrity
 If the same sensitive value appears multiple times in the dataset,
 it is always replaced with the same masked value.
