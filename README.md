@@ -1,4 +1,4 @@
-# Data Masking / Anonymization Tool (version 10)
+# Data Masking / Anonymization Tool (version 1)
 
 ## Overview
 This project is a proof-of-concept data masking tool designed to anonymize sensitive information while preserving data structure and referential integrity for testing purposes.
